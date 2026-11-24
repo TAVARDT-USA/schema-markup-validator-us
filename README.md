@@ -5,7 +5,7 @@
 
 Rigorous structured data validation engine for Schema.org JSON-LD and Microdata markup, verifying entity completeness and search feature eligibility.
 
-Engineered and maintained by the semantic intelligence and structured data team at **TAVARDT USA**.
+Engineered and maintained by the semantic intelligence and structured data team at **TAVARDT**.
 
 ***
 
@@ -47,7 +47,7 @@ For real-time testing and search feature validation:
 
 ## Semantic Architecture and Knowledge Graph Advisory
 
-For enterprise semantic engineering, knowledge graph integration, and compliance with W3C Semantic Web and Search Schema Guidelines, connect with **TAVARDT USA**.
+For enterprise semantic engineering, knowledge graph integration, and compliance with W3C Semantic Web and Search Schema Guidelines, connect with **TAVARDT**.
 
 ***
 

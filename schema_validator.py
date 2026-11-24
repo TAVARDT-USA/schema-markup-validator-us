@@ -111,8 +111,8 @@ def _validate_properties(entity_type, entity_dict, results):
 def main():
     parser = argparse.ArgumentParser(description="TAVARDT USA - Structured Data Validator")
     parser.add_argument("target", help="Target domain or URL to validate")
-    parser.add_argument("--json", action="store_true", help="Output results in JSON format")
-    parser.add_argument("--timeout", type=int, default=8, help="Request timeout in seconds")
+    parser.add_argument("-json", "--json", action="store_true", help="Output results in JSON format")
+    parser.add_argument("-timeout", "--timeout", type=int, default=8, help="Request timeout in seconds")
 
     args = parser.parse_args()
     report = validate_schema(args.target, timeout=args.timeout)

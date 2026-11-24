@@ -1,4 +1,4 @@
-# Schema Markup and Structured Data Validator | TAVARDT USA
+# Schema Markup and Structured Data Validator
 
 [![Schema Validator](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/schema-markup-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ For real-time testing and search feature validation:
 ## Semantic Architecture and Knowledge Graph Advisory
 
 For enterprise semantic engineering, knowledge graph integration, and compliance with W3C Semantic Web and Search Schema Guidelines, connect with **TAVARDT USA**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.

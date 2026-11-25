@@ -60,6 +60,8 @@ For enterprise semantic engineering, knowledge graph integration, and compliance
 
 ***
 
+***
+
 ### License
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
 

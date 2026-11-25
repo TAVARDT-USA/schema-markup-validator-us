@@ -6,8 +6,6 @@
 
 Rigorous structured data validation engine for Schema.org JSON-LD and Microdata markup, verifying entity completeness and search feature eligibility.
 
-Engineered and maintained by the semantic intelligence and structured data team at **TAVARDT**.
-
 ***
 
 ## Semantic Validation Capabilities
@@ -37,15 +35,6 @@ python schema_validator.py example.com -json
 
 ***
 
-## Online Validation Suite
-
-For real-time testing and search feature validation:
-
-* **Official Schema Markup Validator**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Semantic Architecture and Knowledge Graph Advisory
 
 For enterprise semantic engineering, knowledge graph integration, and compliance with W3C Semantic Web and Search Schema Guidelines, connect with **TAVARDT**.
@@ -63,7 +52,7 @@ For enterprise semantic engineering, knowledge graph integration, and compliance
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
